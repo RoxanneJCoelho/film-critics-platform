@@ -1,0 +1,15 @@
+C:\Users\rjc10\film-critics-platform\bin\Debug\net10.0\film-critics-platform.exe
+C:\Users\rjc10\film-critics-platform\bin\Debug\net10.0\film-critics-platform.deps.json
+C:\Users\rjc10\film-critics-platform\bin\Debug\net10.0\film-critics-platform.runtimeconfig.json
+C:\Users\rjc10\film-critics-platform\bin\Debug\net10.0\film-critics-platform.dll
+C:\Users\rjc10\film-critics-platform\bin\Debug\net10.0\film-critics-platform.pdb
+C:\Users\rjc10\film-critics-platform\obj\Debug\net10.0\film-critics-platform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjc10\film-critics-platform\obj\Debug\net10.0\film-critics-platform.AssemblyInfoInputs.cache
+C:\Users\rjc10\film-critics-platform\obj\Debug\net10.0\film-critics-platform.AssemblyInfo.cs
+C:\Users\rjc10\film-critics-platform\obj\Debug\net10.0\film-critics-platform.csproj.CoreCompileInputs.cache
+C:\Users\rjc10\film-critics-platform\obj\Debug\net10.0\film-critics-platform.sourcelink.json
+C:\Users\rjc10\film-critics-platform\obj\Debug\net10.0\film-critics-platform.dll
+C:\Users\rjc10\film-critics-platform\obj\Debug\net10.0\refint\film-critics-platform.dll
+C:\Users\rjc10\film-critics-platform\obj\Debug\net10.0\film-critics-platform.pdb
+C:\Users\rjc10\film-critics-platform\obj\Debug\net10.0\film-critics-platform.genruntimeconfig.cache
+C:\Users\rjc10\film-critics-platform\obj\Debug\net10.0\ref\film-critics-platform.dll
