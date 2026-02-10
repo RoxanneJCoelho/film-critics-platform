@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("film-critics-platform")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+208d97962bdbe5bbaf50b62a2691e4c55a1a295b")]
 [assembly: System.Reflection.AssemblyProductAttribute("film-critics-platform")]
 [assembly: System.Reflection.AssemblyTitleAttribute("film-critics-platform")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
