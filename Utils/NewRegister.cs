@@ -4,11 +4,12 @@ namespace Film_Critics_Platform.Utils
 {
     public class NewRegister
     {
-         public static void ValidName()
+        public static void ValidName()
+
         {
             string name;
             int attempts = 3;
-            
+
             while (attempts > 0)
             {
                 bool isValid = true;
@@ -31,7 +32,7 @@ namespace Film_Critics_Platform.Utils
 
                 foreach (char c in name)
                 {
-                    if (!char.IsLetter(c) && c!=' ')
+                    if (!char.IsLetter(c) && c != ' ')
                     {
                         isValid = false;
                         break;
@@ -52,10 +53,6 @@ namespace Film_Critics_Platform.Utils
 
             Console.WriteLine("Operation canceled due to excessive attempts.");
             return;
-        }
-    public static void ValidContact()
-        {
-            
-        }
+        }  
     }
 }
